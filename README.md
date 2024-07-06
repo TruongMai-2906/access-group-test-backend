@@ -21,3 +21,5 @@
 - Step 5: Update env.local file
 - Step 6: npm i
 - Step 7: npm run start
+## Test API
+- Import api-postman-collection file to Postman for test api
