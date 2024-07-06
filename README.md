@@ -3,7 +3,7 @@
 - Docker: https://www.docker.com/get-started/
 - PostgresSQL: https://www.postgresql.org/
 - pgAdmin: https://www.pgadmin.org/
-##Usage
+## Usage
 - Step 1: Install and install node (version 18.x) from https://nodejs.org/en/download/package-manager/current
 - Step 2: Install and start Docker
 - Step 3: Pull `postgres` image in Docker
